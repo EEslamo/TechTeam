@@ -1,0 +1,84 @@
+@media(max-width:600px) {
+
+    nav {
+        overflow: hidden;
+    }
+
+    nav ul {
+        display: none;
+    }
+
+
+    nav .toggler i {
+        display: block;
+        position: absolute;
+        left: 95%;
+        padding: 15px 15px 0px 0px;
+    }
+
+    .home {
+        background-size: 100% 100%;
+    }
+
+    .home .start h1 {
+        font-size: 45px;
+    }
+
+    .thirdpart {
+        height: 700px;
+        flex-wrap: wrap;
+    }
+
+    .thirdpart .design {
+        width: 100%;
+    }
+
+    .thirdpart .design p {
+        width: 100%;
+        letter-spacing: 1px;
+        margin-bottom: 20px;
+    }
+
+    .thirdpart .photo img {
+        top: 360px;
+        right: 15%;
+        width: 400px;
+        height: 300px;
+    }
+
+    .forthpart {
+        height: 900px;
+        margin-bottom: 1400px;
+    }
+
+    .forthpart .characters {
+        /* height: 540px; */
+        flex-wrap: wrap;
+        position: relative;
+    }
+
+    .forthpart .characters .first {
+        width: 85%;
+    }
+
+    .forthpart .characters .second {
+        width: 85%;
+    }
+
+    .forthpart .characters .third {
+        width: 85%;
+    }
+
+    .forthpart .characters .forth {
+        width: 85%;
+    }
+
+    .sixthpart {
+        height: 800px;
+        margin-bottom: 2400px;
+    }
+
+    .sixthpart .container .photo {
+        width: 100%;
+    }
+}
