@@ -12,7 +12,7 @@
     nav .toggler i {
         display: block;
         position: absolute;
-        left: 95%;
+        left: 91%;
         padding: 15px 15px 0px 0px;
     }
 
@@ -22,6 +22,14 @@
 
     .home .start h1 {
         font-size: 45px;
+    }
+
+    .secondpart {
+        margin-bottom: 50px;
+    }
+
+    .secondpart .features .responsive h1 {
+        font-size: 16px;
     }
 
     .thirdpart {
@@ -40,7 +48,7 @@
     }
 
     .thirdpart .photo img {
-        top: 360px;
+        top: 390px;
         right: 15%;
         width: 400px;
         height: 300px;
@@ -59,23 +67,54 @@
 
     .forthpart .characters .first {
         width: 85%;
+        margin-bottom: 30px;
     }
 
     .forthpart .characters .second {
         width: 85%;
+        margin-bottom: 30px;
     }
 
     .forthpart .characters .third {
         width: 85%;
+        margin-bottom: 30px;
     }
 
     .forthpart .characters .forth {
         width: 85%;
+        margin-bottom: 30px;
     }
+
+    .fifthpart {
+        width: 100%;
+    }
+
+    .fifthpart p {
+        font-size: 12px;
+    }
+
+    .fifthpart .partners {
+        width: 21%;
+    }
+    
+    .fifthpart .projects{
+        width: 21%;
+    }
+
+    .fifthpart .clients{
+        width: 21%;
+    }
+
+    .fifthpart .meetings{
+        width: 21%;
+    }
+    
+        
+
 
     .sixthpart {
         height: 800px;
-        margin-bottom: 2400px;
+        margin-bottom: 1600px;
     }
 
     .sixthpart .container .photo {
